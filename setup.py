@@ -13,7 +13,7 @@ LIST_OF_REQUIREMENTS = ['streamlit']
 setup(
     name=SRC_REPO,
     version="0.0.1",
-    author=BharathNalla45,
+    author="BharathNalla45",
     description="A small package for Movie Recommender System",
     long_description=long_description,
     long_description_content_type="text/markdown",
