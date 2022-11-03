@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 ## edit below variables as per your requirements -
-REPO_NAME = "Movie-Recommender-System-Using-Machine-Learning"
+REPO_NAME = "Movie-Recommender-System"
 AUTHOR_USER_NAME = "BharathNalla45"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = ['streamlit']
@@ -17,7 +17,7 @@ setup(
     description="A small package for Movie Recommender System",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url=f"https://github.com/{BharathNalla45}/{Movie-Recommendation-System}",
+    url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
     author_email="bharathnalla7989@gmail.com",
     packages=[SRC_REPO],
     license="MIT",
