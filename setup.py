@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 ## edit below variables as per your requirements -
 REPO_NAME = "Movie-Recommender-System-Using-Machine-Learning"
-AUTHOR_USER_NAME = "entbappy"
+AUTHOR_USER_NAME = "BharathNalla45"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = ['streamlit']
 
@@ -13,7 +13,7 @@ LIST_OF_REQUIREMENTS = ['streamlit']
 setup(
     name=SRC_REPO,
     version="0.0.1",
-    author="BharathNalla45",
+    author=AUTHOR_USER_NAME,
     description="A small package for Movie Recommender System",
     long_description=long_description,
     long_description_content_type="text/markdown",
